@@ -1,0 +1,57 @@
+body {
+   font-family: "Open Sans", sans-serif;
+   background-color: #1E679A;
+   color: #fff;
+   position: relative;
+}
+
+.sidebar {
+   background-color: antiquewhite;
+   padding: 20px;
+   width: 200px;
+   float: right;
+}
+
+
+
+p {
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+div {
+   padding: 5px;
+   margin: 5px;
+}
+
+#contenedorPadre {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.card {
+   color: rgb(44, 44, 89);
+   background-color: antiquewhite;
+}
+
+.card-title {
+   color: rgb(44, 44, 89);
+}
+
+.card-text {
+   color: rgb(44, 44, 89);
+}
+
+.container-fluid {
+   text-align: center;
+   color: darkslategray;
+}
+
+.table {
+
+   background-color: antiquewhite;
+}
+
+footer {
+   margin-top: 20px;
+}
